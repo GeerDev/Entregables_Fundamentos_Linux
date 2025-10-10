@@ -33,4 +33,4 @@ cat foo/dummy/file1.txt
 ls -R
 ```
 
-![Estructura Archivos Correcta](Images/Estructura_Archivos_Correcta.png)
+![Estructura Archivos Correcta](../Images/Estructura_Archivos_Correcta.png)
