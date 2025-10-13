@@ -37,4 +37,4 @@ cat foo/dummy/file1.txt > foo/dummy/file2.txt
 cat foo/dummy/file1.txt > foo/dummy/file2.txt
 ```
 
-![Estructura Archivos Correcta](../Images/Estructura_Archivos_Correcta_2.png)
+![Estructura Archivos Correcta](../Images/Estructura_Archivos_Correcta.png)
