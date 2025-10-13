@@ -19,6 +19,7 @@ Me encanta la bash!!
 Y `file2.txt` debe permanecer vacío.
 
 ### Solución
+
 ```bash
 # Creamos las carpetas y los ficheros
 mkdir -p foo/{dummy,empty} && touch foo/dummy/{file1.txt,file2.txt}
