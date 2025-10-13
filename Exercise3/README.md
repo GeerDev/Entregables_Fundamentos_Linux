@@ -20,7 +20,7 @@ ls -al script1.sh
 # Le añadimos para todas las opciones de permisos el permiso de ejecución
 chmod +x script1.sh
 
-# Comprobamos los permidos nuevamente
+# Comprobamos los permisos nuevamente
 ls -al script1.sh
 
 # Borramos la carpeta de "foo" solo con fines de comprobar que el sript va a funcionar bien
