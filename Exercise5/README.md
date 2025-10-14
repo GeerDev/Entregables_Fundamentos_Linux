@@ -80,6 +80,7 @@ fi
 # Ejecutamos el script
 ./script3.sh https://midu.dev vitalicios # ✅
 ./script3.sh https://midu.dev vitalicio # ✅
+./script3.sh https://midu.dev palabraquenoexiste # ✅
 ```
 
 Como se puede observar se han añadido validadores en el caso de que los parámetros no sean los esperados (Una URL y una palabra) o directamente no se introduzcan el número de parámetros esperado, así como el manejo de errores en el caso de que no se realice correctamente la llamada curl.

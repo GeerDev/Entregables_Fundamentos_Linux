@@ -62,9 +62,10 @@ fi
 ########################################################
 
 # Ejecutamos el script
-./script3.sh # Error: Por favor introduce una palabra como búsqueda ❌
-./script3.sh "Software Engineer" # ✅
-./script3.sh soporte # ✅
+./script2.sh # ❌
+./script2.sh "Software Engineer" # ✅
+./script2.sh soporte # ✅
+./script2.sh palabrainventada # ✅
 ```
 
 ![Posibles Salidas Script](../Images/Posibles_Salidas_Script.png)
