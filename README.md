@@ -25,10 +25,10 @@ Cada ejercicio se encuentra resuelto en su respectiva carpeta.
 
 ### Correción
 
-Ejercicio 1: todo bien.
-Ejercicio 2: todo bien, aunque el cambio de directorio no es necesario.
-Ejercicio 3: en este ejercicio si que se permite llamar al script sin argumento alguno, no habría que lanzar un error cuando no recibe ninguno. Quitando esto, el ejercicio está bien.
-Ejercicio 4: todo bien. Aquí si que había que controlar el número de argumentos recibido, bien hecho.
-Ejercicio 5: muy bien este ejercicio, me gusta mucho todos los controles de posibles errores que has añadido (no sólo el control del número de parámetros). Un apunte, la expresión regular que usas para validar que el segundo parámetro sólo incluya letras te impide buscar palabras con tilde o que tengan la letra ñ, por si no lo habías tenido en cuenta.
+- **Ejercicio 1**: todo bien.
+- **Ejercicio 2**: todo bien, aunque el cambio de directorio no es necesario.
+- **Ejercicio 3**: en este ejercicio si que se permite llamar al script sin argumento alguno, no habría que lanzar un error cuando no recibe ninguno. Quitando esto, el ejercicio está bien.
+- **Ejercicio 4**: todo bien. Aquí si que había que controlar el número de argumentos recibido, bien hecho.
+- **Ejercicio 5**: muy bien este ejercicio, me gusta mucho todos los controles de posibles errores que has añadido (no sólo el control del número de parámetros). Un apunte, la expresión regular que usas para validar que el segundo parámetro sólo incluya letras te impide buscar palabras con tilde o que tengan la letra ñ, por si no lo habías tenido en cuenta.
 
 Muy buen trabajo y muy bien documentado. En los próximos laboratorios deberás entregar una guía de los pasos seguidos, igual que has hecho en esta entrega.
