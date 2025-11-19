@@ -32,3 +32,6 @@ Cada ejercicio se encuentra resuelto en su respectiva carpeta.
 - **Ejercicio 5**: muy bien este ejercicio, me gusta mucho todos los controles de posibles errores que has añadido (no sólo el control del número de parámetros). Un apunte, la expresión regular que usas para validar que el segundo parámetro sólo incluya letras te impide buscar palabras con tilde o que tengan la letra ñ, por si no lo habías tenido en cuenta.
 
 Muy buen trabajo y muy bien documentado. En los próximos laboratorios deberás entregar una guía de los pasos seguidos, igual que has hecho en esta entrega.
+
+### Awesome Scripting
+Proyecto propio implementando lo aprendido (En construcción).
